@@ -1,6 +1,6 @@
 - OPEN TO WORK
--  👋 Hi, I’m @allyson10500
-- 👀 I'm a PhD Candidate interested in Machine Learning, Statistics, Data Analysis, and Food Safety (I graduate May 2024)
+- 👋 Hi, I’m @allyson10500
+- 👀 I'm a PhD interested in Machine Learning, Statistics, Data Analysis, and Food Safety.
 - 🌱 I’m currently proficient in R, Python, SQL, Tableau, Power BI, Alteryx, Julia, Azure, Spark and more!
 - 📫 Send me an email at '<allyson10500@gmail.com>'
 - 😄 Pronouns: She/Her or They/Them
