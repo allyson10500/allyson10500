@@ -12,8 +12,6 @@
 -    https://orcid.org/0000-0003-1160-2325
 - Google Scholar
 -    https://scholar.google.com/citations?user=6WW_5NwAAAAJ&hl=en
-- DataCamp
--    https://www.datacamp.com/portfolio/allyson10500
 
 <!---
 allyson10500/allyson10500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
